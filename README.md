@@ -1,1 +1,6 @@
-# Mongo-02
+1. Find all the topics and tasks which are thought in the month of October.![mongo01](https://user-images.githubusercontent.com/107177320/199004125-421e2f2e-e2ab-489b-b9b2-1896e27815e6.png)
+2. Find all the company drives which appeared between 15 oct-2020 and 31-oct-2020.![mongo02](https://user-images.githubusercontent.com/107177320/199004189-023ea77f-b26f-4813-8127-c1771de93487.png)
+3. Find all the company drives and students who are appeared for the placement.![mongo03](https://user-images.githubusercontent.com/107177320/199004236-bb812055-7640-4275-81c3-a01de013c0ac.png)
+4. Find the number of problems solved by the user in codekata.![mongo04](https://user-images.githubusercontent.com/107177320/199004293-e2103f09-4ada-40f2-bef9-7bd168b56e7c.png)
+5. Find all the mentors with who has the mentee's count more than 15.![mongo05](https://user-images.githubusercontent.com/107177320/199004358-023dc755-dfab-492d-b4b1-ac5140b84440.png)
+6. Find the number of users who are absent and task is not submitted between 15 oct-2020 and 31-oct-2020.![mongo06](https://user-images.githubusercontent.com/107177320/199004419-5f86b249-b2ef-43f8-b4a4-5c511816a5e2.png)
